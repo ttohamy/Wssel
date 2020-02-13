@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XRDTR6Cmzs5hHExQXkQtdyce5c" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SignupTest.userCanSignUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wssel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SignupTest" />
+      <option name="METHOD_NAME" value="userCanSignUp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SignupTest.userCanSignUp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="" />
+      <created>1581000020718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581000020718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="196" key="GridCell.Tab.0.bottom" timestamp="1581264758955">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1322" height="196" key="GridCell.Tab.0.bottom/44.27.1322.741@44.27.1322.741" timestamp="1581264758955" />
+    <state width="1322" height="196" key="GridCell.Tab.0.center" timestamp="1581264758954">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1322" height="196" key="GridCell.Tab.0.center/44.27.1322.741@44.27.1322.741" timestamp="1581264758954" />
+    <state width="1322" height="196" key="GridCell.Tab.0.left" timestamp="1581264758953">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1322" height="196" key="GridCell.Tab.0.left/44.27.1322.741@44.27.1322.741" timestamp="1581264758953" />
+    <state width="1322" height="196" key="GridCell.Tab.0.right" timestamp="1581264758955">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state width="1322" height="196" key="GridCell.Tab.0.right/44.27.1322.741@44.27.1322.741" timestamp="1581264758955" />
+    <state x="238" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog" timestamp="1581000679308">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="238" y="55" width="924" height="691" key="Maven.ArtifactSearchDialog/44.27.1322.741@44.27.1322.741" timestamp="1581000679308" />
+    <state x="194" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1581016544378">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="194" y="31" width="1022" height="737" key="SettingsEditor/44.27.1322.741@44.27.1322.741" timestamp="1581016544378" />
+    <state x="361" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1581329748266">
+      <screen x="44" y="27" width="1322" height="741" />
+    </state>
+    <state x="361" y="225" key="com.intellij.ide.util.TipDialog/44.27.1322.741@44.27.1322.741" timestamp="1581329748266" />
+  </component>
+</project>
