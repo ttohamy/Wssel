@@ -16,7 +16,6 @@ public class TestBase {
         DesiredCapabilities cap = new DesiredCapabilities();
         cap.setCapability("deviceName", "Tohamy");
         cap.setCapability("platformName", "Android");
-        cap.setCapability("udid","X003573");
         cap.setCapability("appPackage", "com.w99l.customer.app");
         cap.setCapability("appActivity", "com.w99l.customer.app.MainActivity");
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
