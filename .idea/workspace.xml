@@ -22,23 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LocationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LocationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/RestaurantsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/RestaurantsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignUpPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignUpPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/SignupTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/SignupTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" afterDir="false" />
-    </list>
+    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
