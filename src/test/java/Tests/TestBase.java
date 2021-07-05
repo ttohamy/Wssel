@@ -18,13 +18,13 @@ public class TestBase {
         cap.setCapability("platformName", "Android");
         cap.setCapability("appPackage", "com.w99l.customer.app");
         cap.setCapability("appActivity", "com.w99l.customer.app.MainActivity");
+        cap.setCapability("autoGrantPermissions", true);
+
         driver = new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"), cap);
     }
 //    @AfterClass
 //    public void tearDown() throws Exception {
 //        driver.quit();
 //    }
-
-
 
 }

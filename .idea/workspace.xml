@@ -21,9 +21,26 @@
     </expand>
     <select />
   </component>
->>>>>>> new_branch
   <component name="ChangeListManager">
-    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="" />
+    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/ChooseLangPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LocationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/LocationPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/RestaurantsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/StoreListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/SignupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/StoreListOpenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LocationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LocationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/RestaurantsPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignUpPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignUpPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/SignupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,7 +75,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -68,8 +84,8 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager">
-    <configuration name="SignupTest.userCanSignUp" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.StoreListOpenTest.isStoreListOpen">
+    <configuration name="StoreListOpenTest.isStoreListOpen" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Wssel" />
       <extension name="coverage">
         <pattern>
@@ -78,7 +94,25 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Tests" />
-      <option name="MAIN_CLASS_NAME" value="Tests.SignupTest" />
+      <option name="MAIN_CLASS_NAME" value="Tests.StoreListOpenTest" />
+      <option name="METHOD_NAME" value="isStoreListOpen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreListOpenTest.userCanSignUp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wssel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.StoreListOpenTest" />
       <option name="METHOD_NAME" value="userCanSignUp" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -89,7 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SignupTest.userCanSignUp" />
+        <item itemvalue="TestNG.StoreListOpenTest.isStoreListOpen" />
+        <item itemvalue="TestNG.StoreListOpenTest.userCanSignUp" />
       </list>
     </recent_temporary>
   </component>
@@ -108,7 +143,6 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
-
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -121,37 +155,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="4" key="#Project_Structure" timestamp="1605008098891">
+    <state x="385" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625492687232">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="200" y="4" key="#Project_Structure/0.0.1440.860@0.0.1440.860" timestamp="1605008098891" />
-    <state x="400" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1605010441526">
+    <state x="385" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1625492687232" />
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1625493459171">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="400" y="166" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.860@0.0.1440.860" timestamp="1605010441526" />
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1605010696259">
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1625493459171">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1605010696259" />
-    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1605010696259">
+    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
+    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1625493459171">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1605010696259" />
-    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1605010696259">
+    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1625493459171">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1605010696259" />
-    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1605010696259">
+    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
+    <state x="300" y="165" key="IDE.errors.dialog" timestamp="1625477852786">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1605010696259" />
-    <state x="300" y="165" key="IDE.errors.dialog" timestamp="1605008723901">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="300" y="165" key="IDE.errors.dialog/0.0.1440.860@0.0.1440.860" timestamp="1605008723901" />
-    <state x="200" y="4" key="SettingsEditor" timestamp="1605009784982">
-      <screen x="0" y="0" width="1440" height="860" />
-    </state>
-    <state x="200" y="4" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1605009784982" />
+    <state x="300" y="165" key="IDE.errors.dialog/0.0.1440.860@0.0.1440.860" timestamp="1625477852786" />
   </component>
 </project>

@@ -25,4 +25,8 @@ public class PageBase {
         WebDriverWait wait = new WebDriverWait(driver, 30);
         wait.until(ExpectedConditions.elementToBeClickable(element));
     }
+    protected void waitForInVisibilityOf(String locator) {
+        WebDriverWait wait = new WebDriverWait(driver, 30);
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(By.xpath(locator)));
+    }
 }
