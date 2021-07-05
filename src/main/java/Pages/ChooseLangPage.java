@@ -13,13 +13,13 @@ public class ChooseLangPage extends PageBase {
     @FindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.TextView")
     WebElement skipButton ;
     public void chooseLang(){
+
         waitForElementToBeClickable(selectEnglish);
         selectEnglish.click();
         waitForElementToBeClickable(confirmButton);
         try {
-            Thread.sleep(4000);
             confirmButton.click();
-            Thread.sleep(4000);
+            Thread.sleep(6000);
         }catch (Exception e){
             System.out.println("Shit");
         }
