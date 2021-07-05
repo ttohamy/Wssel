@@ -23,23 +23,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/ChooseLangPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/LocationPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/LocationPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/PageBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/RestaurantsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/StoreListPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/SignupTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/StoreListOpenTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/LocationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/LocationPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/RestaurantsPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignUpPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignUpPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/SignupTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/ChooseLangPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/ChooseLangPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/StoreListOpenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/StoreListOpenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/ChooseLangPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/ChooseLangPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/StoreListOpenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/StoreListOpenTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,22 +148,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="385" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1625492687232" />
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1625493459171">
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1625496288678">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
-    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1625493459171">
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1625496288678">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
-    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1625493459171">
+    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
+    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1625496288678">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
-    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1625493459171">
+    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1625496288678">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1625493459171" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
     <state x="300" y="165" key="IDE.errors.dialog" timestamp="1625477852786">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
