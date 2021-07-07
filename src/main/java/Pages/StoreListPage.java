@@ -8,13 +8,13 @@ public class StoreListPage extends PageBase {
     public StoreListPage(AndroidDriver driver) {
         super(driver);
     }
-    @FindBy(xpath = "//android.widget.Button[@content-desc=\"ProfileScreen, tab, 3 of 3\"]/android.view.ViewGroup/android.view.ViewGroup/android.widget.ImageView")
+    @FindBy(xpath = "//android.widget.Button[@content-desc=\"ProfileScreen, tab, 3 of 3\"]/android.view.ViewGroup")
     WebElement myAccountButton ;
     @FindBy(xpath = "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[1]/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup/android.view.ViewGroup[3]/android.widget.ScrollView/android.view.ViewGroup/android.view.ViewGroup[2]/android.view.ViewGroup")
     WebElement storeListItem ;
 
     public void openMyAccountPage(){
-        waitForVisibilityOf(myAccountButton);
+        waitForElementToBeClickable(myAccountButton);
         myAccountButton.click();
     }
     public boolean isStoreListItemsAppears(){

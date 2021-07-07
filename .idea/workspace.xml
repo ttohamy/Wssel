@@ -22,13 +22,26 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="">
+    <list default="true" id="b04f580c-fb7f-4634-ac47-5bd0d38e57a0" name="Default Changelist" comment="New updates">
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pages/ProfilePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tests/SignInTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Pages/ChooseLangPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/ChooseLangPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/MyAccountPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/MyAccountPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/PageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/SignInPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/SignInPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pages/StoreListPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pages/StoreListPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/Tests/StoreListOpenTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/StoreListOpenTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tests/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Pages/ChooseLangPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/ChooseLangPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/MyAccountPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/PageBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/SignInPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Pages/StoreListPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Pages/StoreListPage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/StoreListOpenTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/StoreListOpenTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tests/TestBase.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +86,17 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
-  <component name="RunManager" selected="TestNG.StoreListOpenTest.isStoreListOpen">
+  <component name="RunManager" selected="TestNG.D:/Automation/Wssel/TestNG.xml">
+    <configuration name="D:/Automation/Wssel/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wssel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StoreListOpenTest.isStoreListOpen" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Wssel" />
       <extension name="coverage">
@@ -85,6 +108,24 @@
       <option name="PACKAGE_NAME" value="Tests" />
       <option name="MAIN_CLASS_NAME" value="Tests.StoreListOpenTest" />
       <option name="METHOD_NAME" value="isStoreListOpen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreListOpenTest.userCanSignIn" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wssel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.StoreListOpenTest" />
+      <option name="METHOD_NAME" value="userCanSignIn" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -112,7 +153,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/Automation/Wssel/TestNG.xml" />
         <item itemvalue="TestNG.StoreListOpenTest.isStoreListOpen" />
+        <item itemvalue="TestNG.StoreListOpenTest.userCanSignIn" />
         <item itemvalue="TestNG.StoreListOpenTest.userCanSignUp" />
       </list>
     </recent_temporary>
@@ -129,6 +172,14 @@
       <option name="presentableId" value="Default" />
       <updated>1581000020718</updated>
     </task>
+    <task id="LOCAL-00001" summary="New updates">
+      <created>1625496420938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625496420938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,30 +194,64 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="New updates" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="385" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1625492687232">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="385" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.860@0.0.1440.860" timestamp="1625492687232" />
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1625496288678">
+    <state x="92" y="92" width="1256" height="676" key="DiffContextDialog" timestamp="1625652248149">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
-    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1625496288678">
+    <state x="92" y="92" width="1256" height="676" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1625652248149" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1625651918590">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
-    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1625496288678">
+    <state x="500" y="185" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1625651918590" />
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom" timestamp="1625657829465">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
-    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1625496288678">
+    <state width="1397" height="237" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1625657829465" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center" timestamp="1625657829465">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1625496288678" />
+    <state width="1397" height="237" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1625657829465" />
+    <state width="1397" height="237" key="GridCell.Tab.0.left" timestamp="1625657829464">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="237" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1625657829464" />
+    <state width="1397" height="237" key="GridCell.Tab.0.right" timestamp="1625657829465">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="237" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1625657829465" />
     <state x="300" y="165" key="IDE.errors.dialog" timestamp="1625477852786">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="300" y="165" key="IDE.errors.dialog/0.0.1440.860@0.0.1440.860" timestamp="1625477852786" />
+    <state x="557" y="132" key="RollbackChangesDialog" timestamp="1625496371730">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="557" y="132" key="RollbackChangesDialog/0.0.1440.860@0.0.1440.860" timestamp="1625496371730" />
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2" timestamp="1625496504744">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="163" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1625496504744" />
+    <state x="265" y="166" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1625653475311">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="265" y="166" width="909" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.860@0.0.1440.860" timestamp="1625653475311" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
